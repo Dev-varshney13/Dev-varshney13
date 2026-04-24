@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dev Varshney
 
-🎓 A passionate first-year B.Tech Computer Science student at NIET College, on a journey to explore, build, and innovate through code.
+🎓 A passionate  Second-year B.Tech Computer Science student at NIET College, on a journey to explore, build, and innovate through code.
 
 ---
 
@@ -21,6 +21,7 @@ I'm diving deep into the world of technology — from writing my first lines of 
 ### ⚙️ Tools & Libraries
 - **Pandas**, **NumPy**, **Matplotlib**, **SciPy**
 - **Git & GitHub**
+- **Iot-ESP32,arduino**
 
 ---
 
