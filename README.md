@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dev Varshney
 
-🎓 A passionate  Second-year B.Tech Computer Science student at NIET College, on a journey to explore, build, and innovate through code.
+🎓 A passionate  Third-year B.Tech Computer Science student at NIET College, on a journey to explore, build, and innovate through code.
 
 ---
 
